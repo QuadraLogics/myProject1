@@ -13,3 +13,6 @@ mvn archetype:generate -DgroupId=com.ej -DartifactId=myProject -DarchetypeArtifa
 ```
   mvn clean package
 ```
+
+
+
